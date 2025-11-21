@@ -1,0 +1,13 @@
+.card {
+  background: var(--card-bg);
+  padding: 12px;
+  margin-bottom: 12px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+}
+
+.cardButton {
+  margin: 8px 8px 8px 0px;
+  padding: 8px;
+  cursor: pointer;
+}

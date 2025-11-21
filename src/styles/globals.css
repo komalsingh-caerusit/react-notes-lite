@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  margin: 0;
+  background: var(--background);
+  color: var(--text);
+}
+
+.page {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.notes-list {
+  margin-top: 20px;
+}
